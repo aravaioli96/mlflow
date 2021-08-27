@@ -18,7 +18,7 @@ if __name__ == "__main__":
     score = lr.score(X, y)
     print("Score: %s" % score)
     mlflow.log_metric("score", score)
-    mlflow.log_param("alberto", 1)
+    mlflow.log_param("alberto", 5)
     mlflow.sklearn.log_model(
         sk_model=lr,
         artifact_path="sklearn-model",

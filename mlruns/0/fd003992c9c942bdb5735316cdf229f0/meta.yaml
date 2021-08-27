@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/Desktop/prova/mlflow/mlruns/0/fd003992c9c942bdb5735316cdf229f0/artifacts
+end_time: 1630073037917
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: fd003992c9c942bdb5735316cdf229f0
+run_uuid: fd003992c9c942bdb5735316cdf229f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1630073025258
+status: 3
+tags: []
+user_id: user

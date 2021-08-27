@@ -8,7 +8,7 @@ import pandas as pd
 
 
 if __name__ == "__main__":
-    file = "mlflow/data.csv"
+    file = "data.csv"
     df = pd.read_csv(file, sep = ',') 
 
     X = np.array(df.X).reshape(-1, 1)
